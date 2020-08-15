@@ -1,6 +1,6 @@
 
 # Time Machine Mk. V
-# [Full write-up is on my website!](https://iamericmin.github.io/tm5.html)
+# [Full write-up is on my website! It's also got links to my hackaday page, imgur album, and more goodies. You won't regret it](https://iamericmin.github.io/tm5.html)
 ![Peekaboo!](https://iamericmin.github.io/images/tm5_delorean.jpeg)
 ## DIY nRF52 watch with BLE
 
